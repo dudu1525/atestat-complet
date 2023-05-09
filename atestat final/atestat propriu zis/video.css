@@ -1,0 +1,28 @@
+video{
+
+    float:right;
+
+    object-fit:contain;
+    margin:50px;
+    
+}
+.vjs-default-skin .vjs-volume-control { display: none; }
+
+hr{margin-right:80px;}
+h3{margin-left:50px;
+font-size:25px;}
+p{margin-right:50px;
+    }
+    h2{margin-top:0%;
+    padding-top:40px;}
+main{
+    padding-left: 13%;
+    padding-right: 13%;
+    background-image: linear-gradient(to bottom,white 0%, white 100%), linear-gradient(to bottom, #e0e0e0 0%, #e0e0e0 100%);
+    background-clip: content-box, padding-box;
+    
+}
+
+
+
+

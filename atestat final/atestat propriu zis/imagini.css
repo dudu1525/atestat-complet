@@ -1,0 +1,30 @@
+
+.grid-column{
+display:grid;
+grid-template-columns:max-content max-content max-content;
+justify-content: center;
+padding:40px;
+text-align:center;
+row-gap:50px;
+column-gap: 120px;
+
+}
+
+.grid-row{
+  border:2px solid;
+  border-color: #777;
+
+ 
+}
+.grid-row:hover{
+
+  border-color:black;
+}
+
+.text{
+
+  padding:10px
+}
+
+
+
